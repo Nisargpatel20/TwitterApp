@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Nisargpatel20/Flix_App/blob/main/TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Nisargpatel20/TwitterApp/blob/main/my_walkthroughtwitter4.gif' width='' alt='Video Walkthrough' />
 
